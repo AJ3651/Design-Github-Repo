@@ -14,7 +14,7 @@ His practice belonged to the tradition of *natura morta*[^1] — not as a minor 
 
 The influence of *Arte Povera*[^2] can be felt in Morandi's insistence on **humble materials** and quiet **refusal of spectacle** — though his work predates the movement by decades.
 
-![Fruit, a jug, and draped fabric arranged on a table, painted in warm ochre and green tones](still-life.jpg)
+![Fruit, a jug, and draped fabric arranged on a table, painted in warm ochre and green tones](./still-life.jpg)
 *Figure 1: Paul Cézanne, Still Life with a Curtain, 1895. Oil on canvas. The Hermitage Museum, St. Petersburg.*
 
 [^1]: *Natura morta* — Italian for "still life", literally "dead nature". A painting genre depicting arrangements of inanimate objects.
