@@ -1,0 +1,191 @@
+/*This style sheet was adapted from the example provided by constantvzw ether2html project found at  https://gitlab.constantvzw.org/osp/tools.ether2html */
+
+
+/*Custom fonts you can put in the local css*/
+/* e.g. Alphabet-I found in local fonts folder */
+/*from http://osp.kitchen/foundry/ */
+
+
+
+/* Even if brutal, fonts could be embedded directly from remote source */
+/* As Ether2html is a way to do publications, not websites */
+
+@font-face {
+    font-family: "notcourier";
+    src: url("http://osp.kitchen/api/osp.foundry.notcouriersans/9fff7fd811e6982a46b88f7772fa9768b03c6003/blob-data/NotCourierSans.ttf");
+}
+    
+@font-face {
+    font-family: "alfphabet-iv";
+    src: url("http://osp.kitchen/api/osp.foundry.alfphabet/53301035a44a724592c06018a5d5cfb59eee6fd8/blob-data/Alfphabet-IV.otf");
+}
+    
+@font-face {
+    font-family: "alfphabet-iii";
+    src: url("http://osp.kitchen/api/osp.foundry.alfphabet/78cab074aa56a4e3f7c7d0b10aaf6cd14dca9fad/blob-data/Alfphabet-III.otf");
+}
+        
+        
+@font-face {
+    font-family: "sans-guilt-wafer";
+    src: url("http://osp.kitchen/api/osp.foundry.sans-guilt-wafer/69d4a29c6a546c9c91baf7ed7acce118e42d116c/blob-data/SansGuiltWafer.woff");
+}
+
+
+@font-face {
+    font-family: "CertegeskaBase";
+    src: url("http://osp.kitchen/api/osp.foundry.certegeska/4b32acf97e4b3e5d69b17d8b030b57fcfb6cbd6b/blob-data/CertegeskaBase.woff");
+}
+
+
+@font-face {
+    font-family: "CertegeskaDemi";
+    src: url("http://osp.kitchen/api/osp.foundry.certegeska/abc88b5d8ae345d245f6d3e3bef738b8b66dad22/blob-data/CertegeskaDemi.woff");
+}
+   
+
+@font-face {
+    font-family: "CertegeskaStraight";
+    src: url("http://osp.kitchen/api/osp.foundry.certegeska/cdc6d4201d11e18341eccb838f872e3935d2f6b0/blob-data/CertegeskaStraight.woff");
+}
+   
+
+
+
+
+body {    
+    font-size: 12pt;    
+    line-height: 1.2em;    
+    font-family: 'Arial', sans-serif; /* Arial and Verdana are websafe fonts https://www.w3schools.com/cssref/css_websafe_fonts.php*/
+}
+
+
+h1 {
+    font-size: 28pt;
+    page-break-before: always;
+    font-family: 'alfphabet-iv';
+    font-weight: normal;
+    line-height: 1.1em;  
+    page-break-before: always;/*new page for every submission title*/
+}
+
+
+h2 {    
+    font-size: 26pt;  
+    line-height: 1em;  
+    font-family: 'Alphabet-I';   /*local font*/
+    font-weight: normal;
+    margin-bottom: 0.2em;
+}
+
+
+
+h3 {    
+    font-size: 22pt;  
+    line-height: 1em;  
+    font-family: 'CertegeskaDemi';       
+    font-weight: normal;
+    margin: 0;
+}
+
+
+/*Quick hack to start on a new Page*/
+h4 {    
+    font-size: 26pt;    
+    font-family: 'CertegeskaDemi';       
+    font-weight: normal;
+    page-break-before: always;/*new page for every submission title*/
+}
+
+img {    
+    margin-top: 3vh;    
+    margin-bottom: 3vh;    
+    max-width: 100%;    
+}
+
+a {    
+    color: black;
+}
+
+
+a:after {    
+    content:" <" attr(href) ">";
+}
+
+code {    
+    font-family: 'notcourier';
+}
+
+@page {    
+    size: 210mm 297mm;
+}
+
+@page :left {    
+    margin: 50mm 40mm;    
+    @left-middle{
+        content: "A Title";    
+        font-family: "alfphabet-iii", monospace;
+        font-weight: 400;
+        transform: rotate(-90deg); 
+    }    
+    @top-center {    
+        content: "Another Title";    
+        font-family: "alfphabet-iii", monospace;
+        font-weight: 800;
+    }    
+
+    /* if you want to remove the page numbers remove this top-left-corner section */
+    @top-left-corner {    
+        content: counter(page);    
+        padding-right: 8ch;    
+    }
+
+}
+    
+@page :right {
+    margin: 50mm 40mm;    
+    @right-middle{    
+        content: "A different Title";    
+        font-family: 'alfphabet-iii';    
+        translate: -58pt; 
+        width: 200% !important;
+        transform: rotate(90deg);    
+    }    
+    @top-center {    
+    content: "A Title";    
+        font-family: "alfphabet-iii", monospace;
+        font-weight: 800;
+    }    
+        /* if you want to remove the page numbers remove this top-left-corner section */
+    @top-right-corner {      
+        content: counter(page);    
+        padding-left: 8ch;    
+    }
+}
+            
+@page :first {    
+    @right-middle {        
+        visibility: hidden;    
+    }    
+    @top-center {        
+        visibility: hidden;    
+    }    
+    @top-right-corner {        
+        visibility: hidden;    
+    }      
+    @bottom-right-corner {         
+        visibility: hidden;    
+    }
+}
+        
+
+
+ 
+
+
+
+
+
+
+
+
