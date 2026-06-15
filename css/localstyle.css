@@ -59,6 +59,11 @@ body {
     font-family: 'Arial', sans-serif; /* Arial and Verdana are websafe fonts https://www.w3schools.com/cssref/css_websafe_fonts.php*/
 }
 
+#document {    
+    column-count: 2;       
+    column-gap: 20pt;      
+}
+
 
 h1 {
     font-size: 28pt;
@@ -121,46 +126,64 @@ code {
 }
 
 @page :left {    
-    margin: 50mm 40mm;    
-    @left-middle{
-        content: "A Title";    
-        font-family: "alfphabet-iii", monospace;
-        font-weight: 400;
-        transform: rotate(-90deg); 
-    }    
-    @top-center {    
-        content: "Another Title";    
-        font-family: "alfphabet-iii", monospace;
-        font-weight: 800;
-    }    
-
+    margin: 20mm 30mm;  
     /* if you want to remove the page numbers remove this top-left-corner section */
     @top-left-corner {    
         content: counter(page);    
-        padding-right: 8ch;    
-    }
+        padding-right: 8ch;  
+        text-align: right;  
+    }  
+    @left-middle{
+        content: "F0rm1ess";    
+        font-family: "alfphabet-iii", monospace;
+        font-weight: 400;
+        transform: rotate(-90deg); 
+        text-align: center;
+        width: 20mm;
+    }    
+    @bottom-left-corner {    
+        content: "Computational Arts Critical Studies";    
+        font-family: "alfphabet-iii", monospace;
+        font-weight: 400;
+        transform: rotate(-90deg); 
+        text-align: left;
+        white-space: nowrap;
+        width: 20mm;
+        margin-bottom: 25mm;
+        
+    }    
+
+
 
 }
     
 @page :right {
-    margin: 50mm 40mm;    
-    @right-middle{    
-        content: "A different Title";    
-        font-family: 'alfphabet-iii';    
-        translate: -58pt; 
-        width: 200% !important;
-        transform: rotate(90deg);    
-    }    
-    @top-center {    
-    content: "A Title";    
-        font-family: "alfphabet-iii", monospace;
-        font-weight: 800;
-    }    
-        /* if you want to remove the page numbers remove this top-left-corner section */
+    margin: 20mm 20mm;   
     @top-right-corner {      
         content: counter(page);    
-        padding-left: 8ch;    
-    }
+        padding-left: 4ch; 
+        text-align: left;  
+    } 
+    @right-middle{    
+        content: "Body&Bodiment";    
+        font-family: 'alfphabet-iii';  
+        text-align: center;  
+        width: 20mm;
+        transform: rotate(90deg);    
+    }    
+    @bottom-right-corner {    
+        content: "Article Name";    
+        font-family: "alfphabet-iii", monospace;
+        font-weight: 400;
+        transform: rotate(90deg); 
+        text-align: right;
+        white-space: nowrap;
+        width: 20mm;
+        margin-bottom: 25mm;
+        
+    }      
+        /* if you want to remove the page numbers remove this top-left-corner section */
+
 }
             
 @page :first {    
