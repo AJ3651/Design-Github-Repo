@@ -1,0 +1,12 @@
+{% set chapters = collections.book | inFolder("introduction") %}
+<section id="introduction" class="category{% if chapters[0].data.tocNested %} book-category{% endif %}">
+  
+  {# Ucomment line below if you want to bring this title back #}
+  {# <h2 class="category-title">{{ chapters[0].data.categoryTitle }}</h2> #}
+
+  {% for chapter in chapters %}
+  <article id="{{ chapter | fileId }}" class="chapter">
+    {{ chapter.templateContent | safe }}
+  </article>
+  {% endfor %}
+</section>
