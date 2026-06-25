@@ -121,6 +121,40 @@ code {
     font-family: 'notcourier';
 }
 
+/* p1 */
+#cover {
+    page-break-after: always;
+    height: 297mm;
+}
+
+/* p2 */
+#blank {
+    page: blank-page;
+    page-break-after: always;
+    height: 297mm;
+}
+
+/* p3 */
+#toc {
+    column-count: 1;
+}
+
+#toc ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#toc ul li {
+    font-family: 'alfphabet-iv';
+    font-size: 18pt;
+    font-weight: normal;
+    line-height: 1.4em;
+    margin-bottom: 0.4em;
+    border-bottom: 0.5pt solid black;
+    padding-bottom: 0.3em;
+}
+
 @page {    
     size: 210mm 297mm;
 }
@@ -200,6 +234,19 @@ code {
         visibility: hidden;    
     }
 }
+
+@page blank-page {
+    @left-middle { visibility: hidden; }
+    @bottom-left-corner { visibility: hidden; }
+    @right-middle { visibility: hidden; }
+    @bottom-right-corner { visibility: hidden; }
+    @top-left-corner { visibility: hidden; }
+    @top-right-corner { visibility: hidden; }
+}
+
+
+
+
         
 
 
