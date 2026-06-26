@@ -1,6 +1,3 @@
----
-title: Moving from Technofeudal Enclosure to Techno-Socialist Infrastructures
----
 ## Stathis
 # Moving from Technofeudal Enclosure to Techno-Socialist Infrastructures
 
