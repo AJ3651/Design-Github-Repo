@@ -1,6 +1,3 @@
----
-title: From Cloud to Cloud
----
 ## Wenqian Huang
 # From Cloud to Cloud
 **The Flâneur, Reflective Architecture, and the Circulation of Urban Images**
