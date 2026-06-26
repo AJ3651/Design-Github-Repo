@@ -1,8 +1,8 @@
+## Yumi
+# The_Unarchivable
 
+#### 
 
-| The\_Unarchivable | Yumi |
-| :---- | ----- |
-| **Subtitle** |  |
 
 To most passers-by, pigeons appear almost identical. They belong to the familiar background of the city: birds gathering on pavements, rooftops and window ledges, visible almost everywhere but rarely noticed as individuals. *The Unarchivable* began by interrupting this habitual form of attention. It centred on Huihui and Diandian, two homing pigeons raised by the artist. Although they lived under human care and had individual names and histories, their appearance closely resembled that of the anonymous pigeons encountered across the city. Their position therefore remained uncertain: they were intimate and familiar lives, yet they also belonged visually to a population often treated as an interchangeable urban background.
 
@@ -46,23 +46,23 @@ More powerful hardware, faster cameras, larger datasets or different detection m
 
 ### **Notes**
 
-* #### Algorithmic disorientation is a term developed within this project. It refers to an observable instability in the model’s outputs rather than to a subjective or psychological state attributed to the algorithm.
+- Algorithmic disorientation is a term developed within this project. It refers to an observable instability in the model’s outputs rather than to a subjective or psychological state attributed to the algorithm.
 
-* #### Temporal opacity is also developed within this project. It draws on Glissant’s right to opacity and Blas’s informatic opacity but refers specifically to uneven computational legibility across successive frames of object detection.
+- Temporal opacity is also developed within this project. It draws on Glissant’s right to opacity and Blas’s informatic opacity but refers specifically to uneven computational legibility across successive frames of object detection.
 
 ### 
 
 ### **Citation**
 
-#### Bergson, Henri. 2001\. Time and Free Will: An Essay on the Immediate Data of Consciousness. Translated by F. L. Pogson. Mineola, NY: Dover Publications.
+- Bergson, Henri. 2001\. Time and Free Will: An Essay on the Immediate Data of Consciousness. Translated by F. L. Pogson. Mineola, NY: Dover Publications.
 
-#### Blas, Zach. 2018\. “Informatic Opacity.” In Posthuman Glossary, edited by Rosi Braidotti and Maria Hlavajova, 197–99. London: Bloomsbury Academic.
+- Blas, Zach. 2018\. “Informatic Opacity.” In Posthuman Glossary, edited by Rosi Braidotti and Maria Hlavajova, 197–99. London: Bloomsbury Academic.
 
-#### Glissant, Édouard. 1997\. Poetics of Relation. Translated by Betsy Wing. Ann Arbor: University of Michigan Press.
+- Glissant, Édouard. 1997\. Poetics of Relation. Translated by Betsy Wing. Ann Arbor: University of Michigan Press.
 
-#### Paglen, Trevor. 2016\. “Invisible Images (Your Pictures Are Looking at You).” The New Inquiry, December 8, 2016\. https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/.
+- Paglen, Trevor. 2016\. “Invisible Images (Your Pictures Are Looking at You).” The New Inquiry, December 8, 2016\. https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/.
 
-#### Redmon, Joseph, Santosh Divvala, Ross Girshick, and Ali Farhadi. 2016\. “You Only Look Once: Unified, Real-Time Object Detection.” In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 779–88. https://doi.org/10.1109/CVPR.2016.91.
+- Redmon, Joseph, Santosh Divvala, Ross Girshick, and Ali Farhadi. 2016\. “You Only Look Once: Unified, Real-Time Object Detection.” In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 779–88. https://doi.org/10.1109/CVPR.2016.91.
 
 #### 
 
