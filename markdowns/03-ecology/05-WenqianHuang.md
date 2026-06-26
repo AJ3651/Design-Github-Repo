@@ -1,7 +1,9 @@
-
-
-| From Cloud to Cloud The Flâneur, Reflective Architecture, and the Circulation of Urban Images | Wenqian Huang  |
-| :---- | ----: |
+---
+title: From Cloud to Cloud
+---
+## Wenqian Huang
+# From Cloud to Cloud
+**The Flâneur, Reflective Architecture, and the Circulation of Urban Images**
 
 Glass in the city sometimes makes people stop.  
    
@@ -87,30 +89,17 @@ From cloud to cloud is not a simple route of preservation. It is a media chain i
    
 What continues to exist in the second cloud is not a simple copy of the first cloud. It is another version produced by nature, architecture, photography and computation together. In this version, a contemporary way of seeing the city becomes clearer: people still walk through the street, but images have learned to keep wandering through systems.
 
-### 
 
-### 
 
 ### **Citation**
 
-#### 1\. Benjamin, W. et al. (2005) The arcades project. International journal of urban and regional research 29 (1) p.187–200.
+-  1, Benjamin, W. et al. (2005) The arcades project. International journal of urban and regional research 29 (1) p.187–200.
 
-#### 2\. Bolter, J. D. & Grusin, R. A. (1999) Remediation : understanding new media. Cambridge, Mass: MIT Press.
+- 2, Bolter, J. D. & Grusin, R. A. (1999) Remediation : understanding new media. Cambridge, Mass: MIT Press.
 
-#### 3\. Bratton, B. H. (2016) The Stack: On Software and Sovereignty. 1st edition. \[Online\]. Cambridge, Mass: The MIT Press.
+- 3, Bratton, B. H. (2016) The Stack: On Software and Sovereignty. 1st edition. \[Online\]. Cambridge, Mass: The MIT Press.
 
-#### 4\. Hu, T.-H. (2015) A Prehistory of the Cloud. 1st edition. \[Online\]. Cambridge: MIT Press.
+- 4, Hu, T.-H. (2015) A Prehistory of the Cloud. 1st edition. \[Online\]. Cambridge: MIT Press.
 
-#### 5\. te (2024) No. 3, Mirroring. https://te-editions.com/issue-3
+- 5, te (2024) No. 3, Mirroring. https://te-editions.com/issue-3
 
-#### 
-
-#### 
-
-#### 
-
-#### 
-
-#### 
-
-#### 
