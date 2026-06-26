@@ -1,7 +1,7 @@
+## Zihan
+# AI’s Media Mix
 
-
-| AI’s Media Mix  | Zihan  |
-| :---- | ----: |
+#### 
 
 Year is 2026, 4 years since Stable Diffusion hit the market. Me and a colleague were walking through the subway of Shanghai when a peculiar looking poster entered our vicinity. The advert features an anime-styled illustration of two people. The lady in front looks like she’s been excessively rendered by an artist, whereas the boy in the background had a slightly smeared face and hands. We immediately recognised this as “AI art”. My colleague, who just happen to be invested in the very field of image generation, made snarky comments that the image was made using an outdated “checkpoint model”, and if it were him, would have used “state-of-the-art” models such as \*Anima\* and \*Illustrious-XL\*. He then showed me an example output of both models, each featuring wondrous looking character art that are indeed free from artefacts. I could not help but wonder if there is certain endowed affinity between the anime and diffusion models, that they are able to replicate its feat so effectively. I jokingly asked him if he could reverse-engineer the prompt used to produce the image in front of us, and watched as a long chain of AI runes being ejected out of his mouth.
 
@@ -11,7 +11,7 @@ Year is 2026, 4 years since Stable Diffusion hit the market. Me and a colleague 
 
 (Introducing Danbooru, and its history with AI)
 
-### Both \*Anima\* and \*Illustrious-XL\* have been trained on short, descriptive tags as the ones uttered by my colleague, and both model pointed to the website “[Danbooru](https://donmai.moe/)” as the origin of this method of tagging. Built in 2005, Danbooru is an image-hosting website intended to be a “high-quality archive for anime-styled images”. The archive is co-curated by its users, as they submit images and are encouraged to contribute tags that describe the image. The large amount of posts, coupled with the refined pairing between images and text, made Danbooru the ideal repository to extract data for machine learning. Its first interaction with AI happened in 2015 as AI writer Gwern scraped its data for classification research, producing the dataset \*[danbooru2017](https://gwern.net/danbooru2021)\*. In 2022, company NovelAI trained its proprietary text-to-image (TTI) model using the site’s data, subsequently leaking it during a breach. The leaked model, now known as \`[animefull-latest.ckpt](https://huggingface.co/deepghs/animefull-latest)\`, has shown the Internet that “AI can draw anime characters”, spawning a gold rush of model fine-tuning. This has elevated Danbooru’s traffic to unprecedented heights, forcing the admin to tighten the rate limit. In the process, Danbooru’s style of abstracting images with tags has been crowned as one standard of textual prompt employed by many models, a pillar of the TTI landscape next to OpenAI’s CLIP.
+Both *Anima* and *Illustrious-XL* have been trained on short, descriptive tags as the ones uttered by my colleague, and both model pointed to the website “[Danbooru](https://donmai.moe/)” as the origin of this method of tagging. Built in 2005, Danbooru is an image-hosting website intended to be a “high-quality archive for anime-styled images”. The archive is co-curated by its users, as they submit images and are encouraged to contribute tags that describe the image. The large amount of posts, coupled with the refined pairing between images and text, made Danbooru the ideal repository to extract data for machine learning. Its first interaction with AI happened in 2015 as AI writer Gwern scraped its data for classification research, producing the dataset *[danbooru2017](https://gwern.net/danbooru2021)*. In 2022, company NovelAI trained its proprietary text-to-image (TTI) model using the site’s data, subsequently leaking it during a breach. The leaked model, now known as `[animefull-latest.ckpt](https://huggingface.co/deepghs/animefull-latest)\`, has shown the Internet that “AI can draw anime characters”, spawning a gold rush of model fine-tuning. This has elevated Danbooru’s traffic to unprecedented heights, forcing the admin to tighten the rate limit. In the process, Danbooru’s style of abstracting images with tags has been crowned as one standard of textual prompt employed by many models, a pillar of the TTI landscape next to OpenAI’s CLIP.
 
 ### **The Moe Database**
 
@@ -56,17 +56,3 @@ There is another feature of Tsuguhiko’s Media Mix \- the mobilisation of fans.
 (Link back to Danbooru as the platform, AI as the catalyst of the “story creating machine”, and how this can be applied to the platform economy at large)
 
 (Conclude with another episode at the subway where my imaginary colleague says something that demonstrates the effect of Media-Mix on the everyday life)
-
-### 
-
-### 
-
-#### 
-
-#### 
-
-#### 
-
-#### 
-
-#### 
