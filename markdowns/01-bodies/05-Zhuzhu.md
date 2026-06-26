@@ -1,7 +1,7 @@
-
-
-| In-Between States Assemblage, Repetition, and the Labour of Technical Objects in Artistic Practice  | Zhuzhu  |
-| :---- | ----: |
+## Zhuzhu 
+# In-Between States
+**Assemblage, Repetition, and the Labour of Technical Objects in Artistic Practice**
+#### 
 
 Technical objects are often considered finished artifacts that serve a pre-determined purpose. Within an engineering logic, a system is expected to operate according to governed protocols in order to minimize errors. Control is essential. The system is designed to converge, to close the gap between its current state and its goal. Error is minimized. Noise is filtered. The technical object, under this logic, exists in service of a predetermined endpoint, and its success is measured by how efficiently it arrives there. Wiener called this cybernetics: the scientific study of control and communication in the animal and the machine.¹
 
@@ -27,28 +27,18 @@ What sustains all of this is care. To maintain is to repeat. To repeat is to dif
 
 ### 
 
-### 
-
 ### **Citation**
 
-#### ¹ Norbert Wiener, Cybernetics: Or Control and Communication in the Animal and the Machine (Cambridge, MA: MIT Press, 1948), 11\.
+- ¹ Norbert Wiener, Cybernetics: Or Control and Communication in the Animal and the Machine (Cambridge, MA: MIT Press, 1948), 11\.
 
-####  ² Martin Heidegger, Being and Time, trans. John Macquarrie and Edward Robinson (Oxford: Blackwell, 1962), 102–103.
+- ² Martin Heidegger, Being and Time, trans. John Macquarrie and Edward Robinson (Oxford: Blackwell, 1962), 102–103.
 
-####  ³ Gilbert Simondon, "The Genesis of Technicity," trans. Cecile Malaspina and John Rogove, e-flux Journal, no. 82 (May 2017).
+- ³ Gilbert Simondon, "The Genesis of Technicity," trans. Cecile Malaspina and John Rogove, e-flux Journal, no. 82 (May 2017).
 
-####  ⁴ Tim Ingold, Making: Anthropology, Archaeology, Art and Architecture (London: Routledge, 2013), 21\.
+- ⁴ Tim Ingold, Making: Anthropology, Archaeology, Art and Architecture (London: Routledge, 2013), 21\.
 
-####  ⁵ Mierle Laderman Ukeles, Manifesto for Maintenance Art 1969\! Proposal for an Exhibition "CARE" (1969), unpublished manuscript.
+- ⁵ Mierle Laderman Ukeles, Manifesto for Maintenance Art 1969\! Proposal for an Exhibition "CARE" (1969), unpublished manuscript.
 
-####  ⁶ Barbara Bolt, Art Beyond Representation: The Performative Power of the Image (London: I.B. Tauris, 2004).
+- ⁶ Barbara Bolt, Art Beyond Representation: The Performative Power of the Image (London: I.B. Tauris, 2004).
 
-####  ⁷ Bernard Stiegler, Technics and Time, 1: The Fault of Epimetheus, trans. Richard Beardsworth and George Collins (Stanford: Stanford University Press, 1998).
-
-#### 
-
-#### 
-
-#### 
-
-#### 
+- ⁷ Bernard Stiegler, Technics and Time, 1: The Fault of Epimetheus, trans. Richard Beardsworth and George Collins (Stanford: Stanford University Press, 1998).
