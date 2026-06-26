@@ -1,0 +1,231 @@
+
+
+/* To use a local font, drop the file into static/fonts/ and add:*/
+
+@font-face {
+    font-family: "notcourier";
+    src: url("static/fonts/NotCourierSans.ttf") format("ttf");
+}
+
+
+@font-face {
+    font-family: "alfphabet-iv";
+    src: url("static/fonts/Alfphabet-IV.otf");
+}
+    
+@font-face {
+    font-family: "alfphabet-iii";
+    /* src: url("http://osp.kitchen/api/osp.foundry.alfphabet/78cab074aa56a4e3f7c7d0b10aaf6cd14dca9fad/blob-data/Alfphabet-III.otf"); */
+}
+        
+        
+@font-face {
+    font-family: "sans-guilt-wafer";
+    /* src: url("http://osp.kitchen/api/osp.foundry.sans-guilt-wafer/69d4a29c6a546c9c91baf7ed7acce118e42d116c/blob-data/SansGuiltWafer.woff"); */
+}
+
+
+@font-face {
+    font-family: "CertegeskaBase";
+    /* src: url("http://osp.kitchen/api/osp.foundry.certegeska/4b32acf97e4b3e5d69b17d8b030b57fcfb6cbd6b/blob-data/CertegeskaBase.woff"); */
+}
+
+
+@font-face {
+    font-family: "CertegeskaDemi";
+    /* src: url("http://osp.kitchen/api/osp.foundry.certegeska/abc88b5d8ae345d245f6d3e3bef738b8b66dad22/blob-data/CertegeskaDemi.woff"); */
+}
+   
+
+@font-face {
+    font-family: "CertegeskaStraight";
+    /* src: url("http://osp.kitchen/api/osp.foundry.certegeska/cdc6d4201d11e18341eccb838f872e3935d2f6b0/blob-data/CertegeskaStraight.woff"); */
+}
+   
+/*///////////// PAGED JS RULES ///////////////*/
+
+@page {    
+    size: 210mm 297mm;
+    
+    @bottom-left {    
+        content: "Computational Arts";    
+        font-family: "alfphabet-iii", monospace;
+        font-weight: 800;
+    }    
+    
+    @bottom-right {    
+        content: string(category);    
+        font-family: "alfphabet-iii", monospace;
+        font-weight: 800;
+    }    
+
+    /* if you want to remove the page numbers remove this top-left-corner section */
+    @bottom-center {    
+        content: counter(page);    
+        padding-right: 8ch;    
+    }
+    
+}
+
+@page :left {    
+    margin: 20mm 15mm;    
+
+}
+    
+@page :right {
+   /* margin: 50mm 40mm;    */
+   margin : 40 mm 15mm;
+}
+            
+@page :first {
+    @right-middle {
+        visibility: hidden;
+    }
+    @top-center {
+        visibility: hidden;
+    }
+    @top-right-corner {
+        visibility: hidden;
+    }
+    @bottom-right-corner {
+        visibility: hidden;
+    }
+}
+
+
+@page chapter:first{
+    
+    @top-right{ content: none; }
+    @top-left{ content: none; } 
+    @bottom-right { content: none; }
+    @bottom-left { content: none; }
+
+}
+
+
+body {
+    font-size: 12pt;
+    line-height: 1.2em;
+    font-family: 'Arial', sans-serif; /* Arial and Verdana are websafe fonts https://www.w3schools.com/cssref/css_websafe_fonts.php*/
+}
+/*book category is also treated as a chapter page to make the paged.js pages work*/
+.book-category {
+    break-before: always;
+    page: chapter;
+}
+
+.chapter {
+    page: chapter;
+}
+
+.chapter .body-text{
+    column-count: 2;
+    column-gap: 10mm;
+}
+
+.book-category h2.category-title{
+    string-set: category content();
+}
+
+
+/*If you only wanted to add two column layout for the contributions */
+/* 
+.book-category .chapter {
+    column-count: 2;
+    column-gap: 10mm;
+} 
+*/
+
+/* ///////// TABLE OF CONTENTS ///////// */
+.toc{
+    break-before: page;
+}
+a:not(.toc a):after {
+    content:" <" attr(href) ">";
+}
+
+.toc a::after {
+    content: " " target-counter(attr(href url), page);
+}
+
+code {    
+    font-family: 'notcourier';
+}
+
+
+/* ///////////// GENERAL STYLING ///////// */
+
+h1 {
+    font-size: 28pt;
+    font-family: 'alfphabet-iv';
+    font-weight: normal;
+    line-height: 1.1em;  
+    
+    page-break-before: always;/*new page for every submission title*/
+
+}
+
+
+h2 {    
+    font-size: 26pt;  
+    line-height: 1em;  
+    font-family: 'Alphabet-I';   /*local font*/
+    font-weight: normal;
+    margin-bottom: 0.2em;
+}
+
+
+
+h3 {    
+    font-size: 22pt;  
+    line-height: 1em;  
+    font-family: 'CertegeskaDemi';       
+    font-weight: normal;
+    margin: 0;
+}
+
+
+h4 {    
+    font-size: 26pt;    
+    font-family: 'CertegeskaDemi';       
+    font-weight: normal;
+}
+
+img {
+    margin: 0;
+    max-width: 100%;
+}
+
+/* Full-width image — spans both columns.
+   Wrap your <img> in <figure class="full-width"> in the markdown. */
+.full-width {
+    column-span: all;
+    margin: 20px 0;
+    overflow: hidden;
+}
+figure.full-width img {
+    width: 100%;
+    display: block;
+    margin: 0;
+}
+
+/*hacking p5 editor embeds!*/
+.full-width iframe {
+    width: 100%;
+    height: 200px;
+    display: block;
+    margin-top:-50px; 
+    border:none;
+}
+
+iframe .nav.preview-nav{
+    display: none!important;
+}
+
+a {    
+    color: black;
+}
+
+
+
+
