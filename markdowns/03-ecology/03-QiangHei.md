@@ -1,8 +1,7 @@
-
-
-| Re-Sensing Locality DRIFTING as a Remote Signal | Qiang Hei  |
-| :---- | ----- |
-|  |  |
+## Qiang Hei 
+# Re-Sensing Locality
+**DRIFTING as a Remote Signal**
+#### 
 
 Abstract
 
@@ -14,7 +13,7 @@ In DRIFTING, a wind-direction sensor installed in Quanergo transmits real-time l
 
 Through this project, the article explores how small-scale and situated forms of computational art might offer a way to re-sense locality under the conditions of vast contemporary technological infrastructures. In this sense, computational art does not necessarily need to pursue larger and more controlling technological systems. It can also develop a poetic, situated, and micro-scale technological structure, through which marginalised local experiences obscured by modernisation processes and infrastructural landscapes may become perceptible again. 
 
-1\. Locality Under Infrastructure
+1. Locality Under Infrastructure
 
 Human geography has often understood locality as a distinctive experience formed within a particular region through its natural environment, historical memory, and social practices. However, in Quan’ergou, the large number of wind turbines and the decreasing number of permanent residents suggest that the transformation of place is not only a change in landscape, but also a change in the mode of production.  
 The “wind” of Quan’ergou no longer belongs only to local climatic experience, bodily sensation, or everyday life. Instead, it is woven into systems of energy transition, electricity transmission, and infrastructural construction. The village has not disappeared in a physical sense, but it is increasingly identified as a wind-energy resource, a construction space, a coordinate location, or an object of development.
@@ -25,7 +24,7 @@ What can be recognized by the system is often land, wind energy, spatial use, an
 
 Therefore, the obscuring of place by infrastructure does not simply mean erasing place, but changing the way place is understood and experienced. 
 
-2\. From Extractive Wind to Situated Wind
+2. From Extractive Wind to Situated Wind
 
 In response to this infrastructural logic, computational art does not necessarily need to respond with a larger technological scale. On the contrary, it can begin from small scale, locality, and incompleteness in order to re-establish the relationship between technology and place. Donna Haraway’s discussion of “situated knowledges” offers an important reminder here: knowledge does not come from a disembodied, all-seeing perspective, but is always generated within specific bodies, locations, relations, and technological conditions.2
 
@@ -35,7 +34,7 @@ The wind turbines and the wind-direction sensor in DRIFTING form a key contrast.
 
 Therefore, small-scale situated technological practice is not an objective reproduction of place, but a method of approaching place again. The importance of technological connection lies precisely in the fact that it no longer remains at the level of an abstract discussion about “technology” or “place,” but unfolds within a specific location, coming into contact with environment, history, and social relations. 
 
-3\. Place as a Remote Signal: From Sensing to Re-sensing
+3. Place as a Remote Signal: From Sensing to Re-sensing
 
 In the mechanism of DRIFTING, a micro wind-direction sensor is deployed in Quan’ergou Village, transmitting data through a cloud server into a global networked system. The wind of Quan’ergou is no longer perceived only as a local natural phenomenon, but becomes a directional force that drives the drifting of a digital avatar. In this sense, the sensor does not simply record environmental data; rather, it participates in forming a new relation between a distant environment, a digital interface, and the audience’s present perception.3 Through this process, place is no longer viewed as a fixed image, but is re-sensed as a weak, remote, yet continuously active signal.
 
@@ -49,22 +48,12 @@ Conclusion: Locality as a Continuously Generated Dynamic Perceptual Network
 
 For this text, Quan’ergou is not a static ruin waiting to be preserved, and DRIFTING is not a simple remembrance of a lost hometown. Together, they point to another, more realistic task: under the condition that place has already been deeply reorganized by global infrastructure, data logic, and processes of modernization, how can place still continue to operate as a force of experience? Locality, therefore, is not an archived past, but a continuously generated dynamic perceptual network; it is repeatedly activated between wind, data, memory, distance, and technological interfaces, and enters the present in an incomplete yet continuous form. 
 
-### 
-
-### 
-
 ### **Citation**
 
-#### Benjamin H. Bratton, The Stack: On Software and Sovereignty (Cambridge, MA: MIT Press, 2015).
+- Benjamin H. Bratton, The Stack: On Software and Sovereignty (Cambridge, MA: MIT Press, 2015).
 
-#### Donna J. Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective,” Feminist Studies 14, no. 3 (1988): 575–599.
+- Donna J. Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective,” Feminist Studies 14, no. 3 (1988): 575–599.
 
-#### Jennifer Gabrys, Program Earth: Environmental Sensing Technology and the Making of a Computational Planet (Minneapolis: University of Minnesota Press, 2016).
+- Jennifer Gabrys, Program Earth: Environmental Sensing Technology and the Making of a Computational Planet (Minneapolis: University of Minnesota Press, 2016).
 
-#### Laura Kurgan, Close Up at a Distance: Mapping, Technology, and Politics (New York: Zone Books, 2013).
-
-#### 
-
-#### 
-
-#### 
+- Laura Kurgan, Close Up at a Distance: Mapping, Technology, and Politics (New York: Zone Books, 2013).
