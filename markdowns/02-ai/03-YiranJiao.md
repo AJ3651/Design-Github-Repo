@@ -1,8 +1,7 @@
-
-
-| Bypassing | Yiran Jiao |
-| :---- | ----- |
-| **An Empty Judgment Produced by Technology**  |  |
+## Yiran Jiao
+# Bypassing
+**An Empty Judgment Produced by Technology**
+#### 
 
 Imagine that one day, you are told that an algorithmic risk system has placed you on a watchlist. Your past records, your place of residence, your social relations: this set of quantifiable features is close enough to those of a certain high-risk group; and so, even though you may not have committed any illegal act, you still receive a determination about yourself: a score, a risk level, contact from the police. This system, Chicago's "Strategic Subject List," ran for several years before it was shut down.¹ So what I want to ask is: why can an operational result about an individual be produced before that individual's concrete action has even taken place, and change the way he is treated?
 
