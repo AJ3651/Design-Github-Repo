@@ -1,6 +1,3 @@
----
-title: Rivers Never Dry
----
 ## Sohyun Jun 
 # Rivers Never Dry
 
