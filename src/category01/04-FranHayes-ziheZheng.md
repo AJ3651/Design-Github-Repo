@@ -1,9 +1,8 @@
 ---
 title: EVELUTION
 ---
-# EVELUTION
 ## FRAN HAYES & ZIHE ZHENG 
-
+# EVELUTION
 #### 
 
 According to technologist Blaise Agüera y Arcas, life is computational from its very inception; it emerges from systems that can self-replicate and transmit the information required to sustain existence. Under this lens, we are made of computers. We are computers. We are computers made of computers.  
@@ -199,20 +198,12 @@ we were wondering how the human errors in the crochet code would cause mutations
 The yarn is data/information. the hands behave as a slow compiler. mutations.bod(y)(ies). Is it a chain stitch or a radical shift? If then nothing, bbbbb bb bbbbbbbbbb missed stitch, extra yarn over, unhandled exception in wool. skipping rows to allocate memory for the body. A#HHHHKKKKKHHKKHa aa aaaaaaaaaaaaaaaaaaH.... A#HHHHHHKKHHKQ....... holes appeared; gaps were filled. Buuuuuuut!!!OVERFLOW:YARN the merging changed us more thaaaaaAAAAAAAaaaan the mutations[^9]. Write C://BODY//GENOME.SYS SUCCESS as the feedback loop iterated more and more, the different origins of ourselves became more deeply entangled. you can no longer tell what parts of us were rooted where; we had become enmeshed in ourself.                                                                                                           
 ### Citation                                      
 
-[^1]:  Machine Learning Street Talk. (2025, October 21). *Google researcher shows life "emerges from code" [Blaise Agüera y Arcas]* [Video]. YouTube. [https://www.youtube.com/watch?v=rMSEqJ\_4EBk](https://www.youtube.com/watch?v=rMSEqJ_4EBk) (21.42)
-
-[^2]:  Homo sapiens mitochondrion, complete genome - Nucleotide. (n.d.). NCBI.Available at: https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta
-
-[^3]:  Golding, J. (2020). Introduction. In J. Golding, M. Reinhart, & M. Paganelli (Eds.), *Data loam: Sometimes hard, usually soft. The future of knowledge systems* (pp. 1–14). De Gruyter. 
-
-[^4]:  ‘Bodies’ refers to all entities of Earthly origin - human, nonhuman organism, inanimate agent, computational organism, machine etc…
-
-[^5]: WomenTech Network. (2026). Women in tech stats. https://www.womentech.net/women-in-tech-stats 
-
-[^6]:  Agüera y Arcas, B. (2025). *What is intelligence?* Antikythera; MIT Press. [https://whatisintelligence.antikythera.org/](https://whatisintelligence.antikythera.org/) 
-
-[^7]:  Haraway, D. J. (2016). *Staying with the trouble: Making kin in the Chthulucene*. Duke University Press. 
-
-[^8]:  Tara Donovan. (n.d.). Pace Gallery. Available at: https://www.pacegallery.com/artists/tara-donovan/
-
-[^9]:  Machine Learning Street Talk. (2025, October 21). *Google researcher shows life "emerges from code" [Blaise Agüera y Arcas]* [Video]. YouTube. [https://www.youtube.com/watch?v=rMSEqJ\_4EBk](https://www.youtube.com/watch?v=rMSEqJ_4EBk) (18:32) 
+- 1, Machine Learning Street Talk. (2025, October 21). *Google researcher shows life "emerges from code" [Blaise Agüera y Arcas]* [Video]. YouTube. [https://www.youtube.com/watch?v=rMSEqJ\_4EBk](https://www.youtube.com/watch?v=rMSEqJ_4EBk) (21.42)
+- 2, Homo sapiens mitochondrion, complete genome - Nucleotide. (n.d.). NCBI.Available at: https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta
+- 3, Golding, J. (2020). Introduction. In J. Golding, M. Reinhart, & M. Paganelli (Eds.), *Data loam: Sometimes hard, usually soft. The future of knowledge systems* (pp. 1–14). De Gruyter.
+- 4, ‘Bodies’ refers to all entities of Earthly origin - human, nonhuman organism, inanimate agent, computational organism, machine etc…
+- 5, WomenTech Network. (2026). Women in tech stats. https://www.womentech.net/women-in-tech-stats 
+- 6, Agüera y Arcas, B. (2025). *What is intelligence?* Antikythera; MIT Press. [https://whatisintelligence.antikythera.org/](https://whatisintelligence.antikythera.org/) 
+- 7, Haraway, D. J. (2016). *Staying with the trouble: Making kin in the Chthulucene*. Duke University Press. 
+- 8, Tara Donovan. (n.d.). Pace Gallery. Available at: https://www.pacegallery.com/artists/tara-donovan/
+- 9, Machine Learning Street Talk. (2025, October 21). *Google researcher shows life "emerges from code" [Blaise Agüera y Arcas]* [Video]. YouTube. [https://www.youtube.com/watch?v=rMSEqJ\_4EBk](https://www.youtube.com/watch?v=rMSEqJ_4EBk) (18:32) 
