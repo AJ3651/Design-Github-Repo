@@ -1,4 +1,10 @@
+---
+title: Rivers Never Dry
+---
+## Sohyun Jun 
+# Rivers Never Dry
 
+#### 
 
 | Rivers Never Dry | Sohyun Jun  |
 | :---- | ----- |
@@ -88,32 +94,26 @@ Jane Bennett (2010) argues that recognising agency as distributed—not solely t
 
 Where, then, are the coordinates of humanity in this system? The human attempt to control and modify every being that is not human did not simply make us a dominant species; it made us part of the system. Observed with care and interest, the river emerges with larger questions than infrastructure alone.
 
-### 
-
-### 
 
 ### **Citation**
 
-#### Bennett, J. (2010) Vibrant Matter: A Political Ecology of Things. Durham: Duke University Press.
+- Bennett, J. (2010) Vibrant Matter: A Political Ecology of Things. Durham: Duke University Press.
 
-#### Gabrys, J. and Pritchard, H. (2018) 'Sensing practices', in Braidotti, R. and Hlavajova, M. (eds) Posthuman Glossary. London: Bloomsbury, pp. 560–563.
+- Gabrys, J. and Pritchard, H. (2018) 'Sensing practices', in Braidotti, R. and Hlavajova, M. (eds) Posthuman Glossary. London: Bloomsbury, pp. 560–563.
 
-#### Latour, B. (2005) Reassembling the Social: An Introduction to Actor-Network-Theory. Oxford: Oxford University Press.
+- Latour, B. (2005) Reassembling the Social: An Introduction to Actor-Network-Theory. Oxford: Oxford University Press.
 
-#### London Assembly Research Unit (2025) London's rivers and waterways: cleanliness, safety, wildlife, transport and recreational use. London: Greater London Authority. Available at: https://www.london.gov.uk/sites/default/files/2025-01/London%27s%20rivers%20and%20waterways.pdf (Accessed: 15 June 2026).
+- London Assembly Research Unit (2025) London's rivers and waterways: cleanliness, safety, wildlife, transport and recreational use. London: Greater London Authority. Available at: https://www.london.gov.uk/sites/default/files/2025-01/London%27s%20rivers%20and%20waterways.pdf (Accessed: 15 June 2026).
 
-#### Mallet, P. and Roy, S. (2014) 'The symbiosis between Frankia and alder shrubs results in a tolerance of the environmental stress associated with tailings from the Canadian oil sands industry', Journal of Petroleum & Environmental Biotechnology, 5(4). Available at: https://doi.org/10.4172/2157-7463.1000180.
+- Mallet, P. and Roy, S. (2014) 'The symbiosis between Frankia and alder shrubs results in a tolerance of the environmental stress associated with tailings from the Canadian oil sands industry', Journal of Petroleum & Environmental Biotechnology, 5(4). Available at: https://doi.org/10.4172/2157-7463.1000180.
 
-#### Newman, J. (2016) River Effra: South London's Secret Spine. Oxford: Signal Books.
+- Newman, J. (2016) River Effra: South London's Secret Spine. Oxford: Signal Books.
 
-#### Southwark Council (no date) Belair Park. Available at: https://www.southwark.gov.uk/culture-and-sport/parks-and-open-spaces/find-park/belair-park (Accessed: 15 June 2026).
+- Southwark Council (no date) Belair Park. Available at: https://www.southwark.gov.uk/culture-and-sport/parks-and-open-spaces/find-park/belair-park (Accessed: 15 June 2026).
 
-#### Talling, P. (no date) 'River Effra', London's Lost Rivers. Available at: https://www.londonslostrivers.com/river-effra.html (Accessed: 15 June 2026).
+- Talling, P. (no date) 'River Effra', London's Lost Rivers. Available at: https://www.londonslostrivers.com/river-effra.html (Accessed: 15 June 2026).
 
-#### Thames21 (2023) The River Thames and its tributaries. Available at: https://www.thames21.org.uk/2023/10/the-river-thames-and-its-tributaries/ (Accessed: 15 June 2026).
+- Thames21 (2023) The River Thames and its tributaries. Available at: https://www.thames21.org.uk/2023/10/the-river-thames-and-its-tributaries/ (Accessed: 15 June 2026).
 
-#### Tsing, A. (2015) The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins. Princeton: Princeton University Press.
+- Tsing, A. (2015) The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins. Princeton: Princeton University Press.
 
-#### 
-
-#### 
