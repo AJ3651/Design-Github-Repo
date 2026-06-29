@@ -191,6 +191,16 @@ h4 {
     font-weight: normal;
 }
 
+.subtitle {
+    font-size: 14pt;
+    font-family: 'alfphabet-iv';
+    font-weight: normal;
+    line-height: 1.1em;  
+    
+    /*page-break-before: never;/*new page for every submission title*/
+
+}
+
 img {
     margin: 0;
     max-width: 100%;
