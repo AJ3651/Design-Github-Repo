@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220">
+  <rect width="400" height="220" fill="#e0e0e0"/>
+  <text x="200" y="118" font-family="Arial" font-size="18" text-anchor="middle" fill="#555">Single-column image</text>
+</svg>
