@@ -65,19 +65,15 @@ Although AI currently seems to be advancing at a speed that feels overwhelming t
 
 ### Citation
 
- - 1, The Vampire Machine ,The harm and hypocrisy of AI art  [https://www.corralldesign.com/writing/ai-harm-hypocrisy](https://www.corralldesign.com/writing/ai-harm-hypocrisy)    
-- 2, Friend AI Pendant [https://raymond-brunell.medium.com/introducing-the-ai-friend-necklace-surveillance-has-never-looked-so-cute-2b576a7ccd77](https://raymond-brunell.medium.com/introducing-the-ai-friend-necklace-surveillance-has-never-looked-so-cute-2b576a7ccd77)   
-- 3, AI Friend Pendant vandalism [https://futurism.com/future-society/ai-friend-startup-overwhelmed-hatred](https://futurism.com/future-society/ai-friend-startup-overwhelmed-hatred)     
-- 4, Why being efficient is bad for your creativity, Edward Tenner , 2019,  
-[https://www.weforum.org/stories/2019/04/unlocking-the-creative-value-of-inefficiency/](https://www.weforum.org/stories/2019/04/unlocking-the-creative-value-of-inefficiency/)   
-- 5, Just because we can, doesn't mean we should, Dimacali, 2025,  
-[https://www.aucklandartgallery.com/explore/stories-and-voices/ai-art-just-because-we-can-doesnt-always-mean-we-should](https://www.aucklandartgallery.com/explore/stories-and-voices/ai-art-just-because-we-can-doesnt-always-mean-we-should)      
-- 6, Is AI art actually art? [https://www.plymouth.ac.uk/discover/is-ai-generated-art-actually-art](https://www.plymouth.ac.uk/discover/is-ai-generated-art-actually-art)       
-- 7, Paul W. Grimm, Maura R. Grossman, Daniel G. Brown, Molly XU, The GPTJudge: Justice in a Generative AI World, Duke Law & Technology Review, Vol. 23, No. 1, May 2023\. To Appear in Vol. 23, Iss. 1 of Duke Law & Technology Review (Oct. 2023).  
-[https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4460184](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4460184)     
-- 8, Ahmad, Sayed Fayaz et al. “Impact of artificial intelligence on human loss in decision making, laziness and safety in education.” Humanities & social sciences communications vol. 10,1 (2023): 311\. doi:10.1057/s41599-023-01787-8  [https://pubmed.ncbi.nlm.nih.gov/37325188/](https://pubmed.ncbi.nlm.nih.gov/37325188/)      
-- 9, Teaching LLMs to reason like Bayesians, Google, 2026 [https://research.google/blog/teaching-llms-to-reason-like-bayesians/](https://research.google/blog/teaching-llms-to-reason-like-bayesians/)     
-- 10, Jenna Sutela,  nimiia cetii 2018  [https://www.somersethouse.org.uk/whats-on/jenna-sutela-nimiia-cetii](https://www.somersethouse.org.uk/whats-on/jenna-sutela-nimiia-cetii)     
-- 11, AI Models  are cannibalising each other , Vice, 2025, [https://www.vice.com/en/article/ai-models-are-cannibalizing-each-other-and-it-might-destroy-them/](https://www.vice.com/en/article/ai-models-are-cannibalizing-each-other-and-it-might-destroy-them/)     
-- 12, Generative AI’s environmental impact, MIT News, 2025  
-[https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117\#:\~:text=Rapid%20development%20and%20deployment%20of,electricity%20demand%20and%20water%20consumption](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117#:~:text=Rapid%20development%20and%20deployment%20of,electricity%20demand%20and%20water%20consumption).   
+ - 1, The Vampire Machine ,The harm and hypocrisy of AI art. [ ](https://www.corralldesign.com/writing/ai-harm-hypocrisy)
+- 2, Friend AI Pendant [ ](https://raymond-brunell.medium.com/introducing-the-ai-friend-necklace-surveillance-has-never-looked-so-cute-2b576a7ccd77) 
+- 3, AI Friend Pendant vandalism [ ](https://futurism.com/future-society/ai-friend-startup-overwhelmed-hatred)
+- 4, Why being efficient is bad for your creativity, Edward Tenner , 2019,  [ ](https://www.weforum.org/stories/2019/04/unlocking-the-creative-value-of-inefficiency/)
+- 5, Just because we can, doesn't mean we should, Dimacali, 2025,  [ ](https://www.aucklandartgallery.com/explore/stories-and-voices/ai-art-just-because-we-can-doesnt-always-mean-we-should)    
+- 6, Is AI art actually art? [ ](https://www.plymouth.ac.uk/discover/is-ai-generated-art-actually-art)     
+- 7, Paul W. Grimm, Maura R. Grossman, Daniel G. Brown, Molly XU, The GPTJudge: Justice in a Generative AI World, Duke Law & Technology Review, Vol. 23, No. 1, May 2023\. To Appear in Vol. 23, Iss. 1 of Duke Law & Technology Review (Oct. 2023).  [ ](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4460184)
+- 8, Ahmad, Sayed Fayaz et al. “Impact of artificial intelligence on human loss in decision making, laziness and safety in education.” Humanities & social sciences communications vol. 10,1 (2023): 311\. doi:10.1057/s41599-023-01787-8 [ ](https://pubmed.ncbi.nlm.nih.gov/37325188/)    
+- 9, Teaching LLMs to reason like Bayesians, Google, 2026 [ ](https://research.google/blog/teaching-llms-to-reason-like-bayesians/)    
+- 10, Jenna Sutela,  nimiia cetii 2018  [ ](https://www.somersethouse.org.uk/whats-on/jenna-sutela-nimiia-cetii)     
+- 11, AI Models  are cannibalising each other , Vice, 2025, [ ](https://www.vice.com/en/article/ai-models-are-cannibalizing-each-other-and-it-might-destroy-them/)     
+- 12, Generative AI’s environmental impact, MIT News, 2025 [ ](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117\#:\~:text=Rapid%20development%20and%20deployment%20of,electricity%20demand%20and%20water%20consumption) 
