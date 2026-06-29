@@ -48,7 +48,7 @@
     size: 210mm 297mm;
     
     @bottom-left {    
-        content: "Computational Arts";    
+        content: "Critical Computational Research";    
         font-family: "alfphabet-iii", monospace;
         font-weight: 800;
     }    
@@ -74,7 +74,7 @@
     
 @page :right {
    /* margin: 50mm 40mm;    */
-   margin : 40 mm 15mm;
+   margin : 40mm 15mm;
 }
             
 @page :first {
