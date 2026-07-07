@@ -1,0 +1,384 @@
+/* To use a local font, drop the file into static/fonts/ and add:*/
+
+@font-face {
+  font-family: "notcourier";
+  src: url("static/fonts/NotCourierSans.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "alfphabet-iv";
+  src: url("static/fonts/Alfphabet-IV.otf");
+}
+
+@font-face {
+  font-family: "SairaSemiCondensed-Thin";
+  src: url("static/fonts/SairaSemiCondensed-Thin.ttf");
+}
+
+@font-face {
+  font-family: "SairaSemiCondensed-Regular";
+  src: url("static/fonts/SairaSemiCondensed-Regular.ttf");
+}
+
+@font-face {
+  font-family: "SairaSemiCondensed-Medium";
+  src: url("static/fonts/SairaSemiCondensed-Medium.ttf");
+}
+
+
+@font-face {
+  font-family: "typewcond_regular";
+  src: url("static/fonts/typewcond_regular.otf");
+}
+
+@font-face {
+  font-family: "typewcond_bold";
+  src: url("static/fonts/typewcond_bold.otf");
+}
+
+@font-face {
+  font-family: "dichtmy";
+  src: url("static/fonts/dichtmy.ttf");
+}
+
+@font-face {
+  font-family: "Array";
+  src: url("static/fonts/Array-Regular.otf");
+}
+
+@font-face {
+  font-family: "black fire";
+  src: url("static/fonts/black fire.ttf");
+}
+
+@font-face {
+  font-family: "Distor";
+  src: url("static/fonts/Distor.ttf");
+}
+
+
+
+
+
+/*///////////// PAGED JS RULES ///////////////*/
+
+@page {
+  size: 210mm 297mm;
+}
+
+@page :left {
+  margin: 16mm 24mm;
+
+  @top-left-corner {
+    content: "Critical Computational Research.";
+    font-family: "SairaSemiCondensed-Thin", monospace;
+    font-size: 10pt;
+    font-weight: 400;
+    transform: rotate(-90deg);
+    text-align: left;
+    white-space: nowrap;
+    width: 20mm;
+    margin-top: 52mm;
+  }
+
+  @left-middle {
+    content: "F0rm1ess";
+    font-family: "SairaSemiCondensed-Thin", monospace;
+    font-size: 10pt;
+    font-weight: 400;
+    transform: rotate(-90deg);
+    text-align: center;
+    width: 20mm;
+  }
+
+  @bottom-left-corner {
+    font-family: "SairaSemiCondensed-Thin", monospace;
+    font-size: 10pt;
+    content: counter(page);
+    padding-right: 6ch;
+    text-align: right;
+  }
+}
+
+@page :right {
+  margin: 16mm 20mm;
+
+  @top-right-corner {
+    content: string(category, last);
+    font-family: "SairaSemiCondensed-Thin", monospace;
+    font-weight: 400;
+    font-size: 10pt;
+    transform: rotate(90deg);
+    text-align: right;
+    white-space: nowrap;
+    width: 20mm;
+    margin-top: 27mm;
+  }
+
+  @right-middle {
+    content: "Name";
+    font-family: "SairaSemiCondensed-Thin", monospace;
+    font-size: 10pt;
+    font-weight: 400;
+    text-align: center;
+    width: 20mm;
+    transform: rotate(90deg);
+  }
+
+  @bottom-right-corner {
+    font-family: "SairaSemiCondensed-Thin", monospace;
+    font-size: 10pt;
+    content: counter(page);
+    padding-left: 4ch;
+    text-align: left;
+  }
+}
+
+@page :first {
+  @right-middle { visibility: hidden; }
+  @top-center { visibility: hidden; }
+  @top-right-corner { visibility: hidden; }
+  @bottom-right-corner { visibility: hidden; }
+}
+
+@page chapter:first {
+  @top-left-corner { content: none; }
+  @top-right-corner { content: none; }
+  @left-middle { content: none; }
+  @right-middle { content: none; }
+  @bottom-left-corner { content: none; }
+  @bottom-right-corner { content: none; }
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+  @bottom-center { content: none; }
+}
+
+.blank-page {
+  break-before: always;
+  page: blank;
+  height: 100%;
+}
+
+@page blank {
+  @top-left-corner { content: none; }
+  @top-right-corner { content: none; }
+  @left-middle { content: none; }
+  @right-middle { content: none; }
+  @bottom-left-corner { content: none; }
+  @bottom-right-corner { content: none; }
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+  @bottom-center { content: none; }
+}
+
+body {
+  font-size: 12pt;
+  line-height: 1.2em;
+  font-family: 'SairaSemiCondensed-Regular';
+  margin: 0;
+}
+
+.body-text > *:first-child {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/*book category is also treated as a chapter page to make the paged.js pages work*/
+
+.book-category {
+  break-before: always;
+  page: chapter;
+}
+
+.book-category > h2.category-title {
+  visibility: hidden;
+  height: 0;
+  margin: 0;
+  overflow: hidden;
+  string-set: category content();
+}
+
+.chapter {
+  page: chapter;
+}
+
+.chapter .body-text {
+  column-count: 2;
+  column-gap: 10mm;
+}
+
+.book-category h2.category-title {
+  string-set: category content();
+}
+
+/*If you only wanted to add two column layout for the contributions */
+/* .book-category .chapter {
+  column-count: 2;
+  column-gap: 10mm;
+} */
+
+/* ///////// TABLE OF CONTENTS ///////// */
+
+.toc {
+  break-before: page;
+}
+
+.toc a::after {
+  content: " " target-counter(attr(href url), page);
+}
+
+code {
+  font-family: 'notcourier';
+}
+
+/* ///////////// GENERAL STYLING ///////// */
+
+h1 {
+  font-size: 40pt;
+  font-family: 'dichtmy';
+  font-weight: normal;
+  line-height: 1.1em;
+  letter-spacing: 1px;
+  margin-bottom: -0.2em;
+  transform: translateX(-1mm);
+  text-align: center;
+  /* page-break-before: always; */
+}
+
+h2 {
+  font-size: 18pt;
+  line-height: 1em;
+  font-family: 'SairaSemiCondensed-Medium';
+  font-weight: normal;
+  margin-bottom: 1.6em;
+  text-align: center;
+}
+
+h3 {
+  font-size: 22pt;
+  line-height: 1em;
+  font-family: 'CertegeskaDemi';
+  font-weight: normal;
+  margin: 0;
+}
+
+h4 {
+  font-size: 26pt;
+  font-family: 'CertegeskaDemi';
+  font-weight: normal;
+}
+
+h5 {
+  font-size: 18pt;
+  line-height: 1em;
+  font-family: 'SairaSemiCondensed-Medium';
+  font-weight: normal;
+  margin: 0;
+  page-break-before: always;
+  margin-bottom: -0.3em;
+  text-align: center;
+}
+
+
+img {
+  margin: 0;
+  max-width: 100%;
+}
+
+/* Full-width image — spans both columns. Wrap your <img> in <figure class="full-width"> in the markdown. */
+
+.full-width {
+  column-span: all;
+  margin: 20px 0;
+  overflow: hidden;
+}
+
+figure.full-width img {
+  width: 100%;
+  display: block;
+  margin: 0;
+}
+
+/*hacking p5 editor embeds!*/
+
+.full-width iframe {
+  width: 100%;
+  height: 200px;
+  display: block;
+  margin-top: -50px;
+  border: none;
+}
+
+iframe .nav.preview-nav {
+  display: none !important;
+}
+
+a {
+  color: black;
+}
+
+/*category!*/
+
+.category-cover {
+  margin: -20mm -20mm -20mm -30mm;
+  width: calc(100% + 60mm);
+}
+
+.category-cover iframe {
+  width: 100%;
+  height: 540px;
+  display: block;
+  margin-top: -50px;
+  border: none;
+}
+
+.category-toc ul{
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+
+.category-toc li{
+    margin-bottom:1em;
+}
+
+.category-toc a{
+    display:block;
+    position:relative;
+    text-decoration:none;
+    color:black;
+    padding-right:3em;
+}
+
+/* category cover*/
+.category-toc a {
+    display: block;
+    position: relative;
+    text-decoration: none;
+    color: black;
+    padding-right: 3em; 
+}
+
+/* page */
+.category-toc a::after {
+    content: target-counter(attr(href), page);
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+/* title & author */
+.category-toc .chapter-title {
+    display: block;
+    font-size: 14pt;
+}
+.category-toc .chapter-author {
+    display: block;
+    font-size: 10pt;
+    font-family: "SairaSemiCondensed-Thin";
+    margin-top: 0.2em;
+}

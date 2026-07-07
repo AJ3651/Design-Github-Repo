@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+
+    <link rel="stylesheet" href="print.css">
+
+    <style media="screen">
+
+        :root {
+            --color-background: whitesmoke;
+            --color-pageBox: #666;
+            --color-paper: white;
+            --color-marginBox: transparent;
+        }
+
+        @media screen {
+
+            body {
+                background-color: var(--color-background);
+                margin: 0;
+                padding: 20px;
+            }
+
+            .pagedjs_pages {
+                display: flex;
+                width: calc(var(--pagedjs-width) * 2);
+                flex-wrap: wrap;
+                margin: auto;
+            }
+
+            .pagedjs_page {
+                background: var(--color-paper);
+                box-shadow: 0 0 0 1px var(--color-pageBox);
+                margin-top: 10mm;
+                flex-shrink: 0;
+            }
+
+            .pagedjs_first_page {
+                margin-left: var(--pagedjs-width);
+            }
+
+            .pagedjs_page:last-of-type {
+                margin-bottom: 10mm;
+            }
+        }
+
+    </style>
+
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+
+</head>
+
+<body>
+
+    <main class="book">
+
+        {{ content | safe }}
+
+    </main>
+
+</body>
+
+</html>
