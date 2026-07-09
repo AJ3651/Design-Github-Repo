@@ -178,10 +178,13 @@ a:not(.toc a):after {
     content: " " target-counter(attr(href url), page);
 }
 
-code {    
+code {
     font-size: 9pt;
     line-height: 1.2em;
-    font-family: 'monaspace', monospace; /* Arial and Verdana are websafe fonts https://www.w3schools.com/cssref/css_websafe_fonts.php*/
+    font-family: 'monaspace', monospace;
+    background-color: #f0f0f0;
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
 }
 
 
