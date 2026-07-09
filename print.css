@@ -37,6 +37,11 @@
     font-family: "Computer_Malfunction_Error";
     src: url("/static/fonts/Computer_Malfunction_Error.ttf");
 }
+
+@font-face {
+    font-family: "monaspace";
+    src: url("static/fonts/MonaspaceXenonNF-Regular.otf");
+}
     
 @font-face {
     font-family: "alfphabet-iii";
@@ -174,7 +179,9 @@ a:not(.toc a):after {
 }
 
 code {    
-    font-family: 'notcourier';
+    font-size: 9pt;
+    line-height: 1.2em;
+    font-family: 'monaspace', monospace; /* Arial and Verdana are websafe fonts https://www.w3schools.com/cssref/css_websafe_fonts.php*/
 }
 
 
