@@ -1,5 +1,5 @@
 ---
-title: AI’s Media  Mix
+title: AI’s Media Mix
 ---
 <div class="chapter-two">
 
