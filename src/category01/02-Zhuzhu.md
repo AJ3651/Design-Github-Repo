@@ -83,20 +83,13 @@ What sustains all of this is care. To maintain is to repeat. To repeat is to dif
    <br><br>  </div>                                                                                         
 ### END NOTES  
 
-
-Barbara Bolt, *Art Beyond Representation: The Performative Power of the Image* (London: I.B. Tauris, 2004).
-
-Martin Heidegger, *Being and Time*, trans. by John Macquarrie and Edward Robinson (Oxford: Blackwell, 1962), pp. 102–103.
-
-Tim Ingold, *Making: Anthropology, Archaeology, Art and Architecture* (London: Routledge, 2013), p. 21\.
-
-Gilbert Simondon, 'The Genesis of Technicity', trans. by Cecile Malaspina and John Rogove, *e-flux Journal*, 82 (May 2017), [https://www.e-flux.com/journal/82/133160/the-genesis-of-technicity](https://www.e-flux.com/journal/82/133160/the-genesis-of-technicity) \[accessed 3 May 2026\].
-
-Bernard Stiegler, *Technics and Time, 1: The Fault of Epimetheus*, trans. by Richard Beardsworth and George Collins (Stanford: Stanford University Press, 1998).
-
-Mierle Laderman Ukeles, *Manifesto for Maintenance Art 1969\! Proposal for an Exhibition 'CARE'* (1969), unpublished manuscript.
-
-Norbert Wiener, *Cybernetics: Or Control and Communication in the Animal and the Machine* (Cambridge, MA: MIT Press, 1948), p. 11\.
+- Barbara Bolt, *Art Beyond Representation: The Performative Power of the Image* (London: I.B. Tauris, 2004).
+- Martin Heidegger, *Being and Time*, trans. by John Macquarrie and Edward Robinson (Oxford: Blackwell, 1962), pp. 102–103.
+- Tim Ingold, *Making: Anthropology, Archaeology, Art and Architecture* (London: Routledge, 2013), p. 21.
+- Gilbert Simondon, 'The Genesis of Technicity', trans. by Cecile Malaspina and John Rogove, *e-flux Journal*, 82 (May 2017), [https://www.e-flux.com/journal/82/133160/the-genesis-of-technicity](https://www.e-flux.com/journal/82/133160/the-genesis-of-technicity) [accessed 3 May 2026].
+- Bernard Stiegler, *Technics and Time, 1: The Fault of Epimetheus*, trans. by Richard Beardsworth and George Collins (Stanford: Stanford University Press, 1998).
+- Mierle Laderman Ukeles, *Manifesto for Maintenance Art 1969\! Proposal for an Exhibition 'CARE'* (1969), unpublished manuscript.
+- Norbert Wiener, *Cybernetics: Or Control and Communication in the Animal and the Machine* (Cambridge, MA: MIT Press, 1948), p. 11.
 
 </div>
 
