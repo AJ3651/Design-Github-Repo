@@ -3,11 +3,11 @@ title: EVELUTION
 ---
 <div class="chapter-one">
 
+##### FRAN HAYES & ZIHE ZHENG
+
+
 # EVELUTION
-
-## FRAN HAYES & ZIHE ZHENG
-
-**A conversation between feminist cyborgs across time and space**
+## A conversation between feminist cyborgs across time and space
 
 #### 
 
