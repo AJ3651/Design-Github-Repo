@@ -75,7 +75,7 @@ return Mito.definition);  <br>
 </div>
 
 [fran\&zihe] <br>
-You are a form of life with partially human roots. And yet who is qualified enough to draw the definition of human? We were influenced by the idea of Blaise Agüera y Arcas (Agüera y Arcas 2025c, chap. 2, ‘Symbiogenesis’): that natural biology functions as computation. DNA is code. And you are a combination of DNA, algorithm and nonhuman organisms (although we reject reinforcing the human/nonhuman binary). Thus, we have expanded your potential as a living entity.
+You are a form of life with partially human roots. And yet who is qualified enough to draw the definition of human? We were influenced by the idea of Blaise Agüera y Arcas : that natural biology functions as computation (Agüera y Arcas 2025c, chap. 2, ‘Symbiogenesis’). DNA is code. And you are a combination of DNA, algorithm and nonhuman organisms (although we reject reinforcing the human/nonhuman binary). Thus, we have expanded your potential as a living entity.
 
 <div style = "text-align:right">
 [mito]  
@@ -98,7 +98,7 @@ for(let whatReason \= ?; whatReason \< did you; whatReason \++ use slimeMold?);
 </div>
 
 [fran & zihe] <br>
-By embedding the _Physarum polycephalum_ algorithm into your evolutionary code, we introduced an active layer of nonhuman biology. Through your development, we hope to model a slower, safer computational future—one that embraces a multi-layered becoming-together of - to borrow terminology from Haraway - Earthly critters, human and nonhuman, living and machine (Haraway 2016).
+By embedding the Physarum polycephalum algorithm into your evolutionary code, we introduced an active layer of nonhuman biology. Through your development, we hope to model a slower, safer computational future, one that embraces a multi-layered becoming-together of - to borrow terminology from Haraway - Earthly critters, human and nonhuman, living and machine (Haraway 2016).
 
 <div style = "text-align:right">
 [mito]  <br>
