@@ -273,6 +273,13 @@ body {
     page: chapter;
 }
 
+/* Keep main-category TOC anchors on the articles' actual opening pages. */
+#category01 > .chapter,
+#category02 > .chapter,
+#category03 > .chapter {
+    break-before: page;
+}
+
 .chapter .body-text{
     column-count: 2;
     column-gap: 10mm;
@@ -326,6 +333,12 @@ body {
 /* ///////// TABLE OF CONTENTS ///////// */
 .toc{
     break-before: page;
+}
+
+/* Keep the expanded TOC with introduction links on one page. */
+.toc .divider {
+    margin-top: 12px;
+    margin-bottom: 14px;
 }
 
 a:not(.toc a):after {
@@ -429,7 +442,6 @@ h5 {
     font-family: 'typewcond_regular';       
     font-weight: normal;
     text-align: center;
-    page-break-before: always;/*new page for every submission title*/
     margin-top: 0.6em;
     margin-bottom: 1.1em;
 }
