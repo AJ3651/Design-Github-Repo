@@ -6,6 +6,12 @@
     {% if section.tocNested %}
       <div class="divider"></div>
       <h3>{{ section.title }}</h3>
+
+      {% if section.folder == "category01" or section.folder == "category02" or section.folder == "category03" %}
+        <div style="margin-bottom: 5px;">
+          <a href="#{{ section.folder }}">Introduction</a>
+        </div>
+      {% endif %}
       
       {% for chapter in section.chapters %}
         {# Skip rendering if the chapter title is "Preface" or "Colophon" #}
