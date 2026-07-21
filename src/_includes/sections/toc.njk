@@ -4,7 +4,6 @@
   <br>
   {% for section in collections.book | groupBySectionOrder %}
     {% if section.tocNested %}
-      <div class="divider"></div>
       <h3>{{ section.title }}</h3>
 
       {% if section.folder == "category01" or section.folder == "category02" or section.folder == "category03" %}

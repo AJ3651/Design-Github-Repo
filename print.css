@@ -335,10 +335,9 @@ body {
     break-before: page;
 }
 
-/* Keep the expanded TOC with introduction links on one page. */
-.toc .divider {
-    margin-top: 12px;
-    margin-bottom: 14px;
+/* Preserve the TOC's section spacing when divider elements are omitted. */
+.toc h3 {
+    margin-top: 24px;
 }
 
 a:not(.toc a):after {
