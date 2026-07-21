@@ -13,6 +13,8 @@ title: Colophon
 <br></br>
 <br></br>
 <br></br>
+<br></br>
+<br></br>
 
 **Title**
 <br>Computational Art Critical Papers: f0rm1ess, 2026
