@@ -90,24 +90,24 @@ The crisis of platform capitalism is fundamentally a crisis of ownership. It is 
 - Bratton, Benjamin H. (2015), _The Stack: On Software and Sovereignty_ (Cambridge, MA: MIT Press)
 - Dal Maso, Giulia (2022), ‘The Promethean Ant Forest: Alibaba’s App as a Financialising Environmental Tool’, _Made in China Journal_ 7.2, 144–49, [](https://www.researchgate.net/publication/368479256) [accessed 8 May 2026]
 - Foer, Franklin (2017), ‘Facebook’s war on free will’, _The Guardian_, 19 September, [](https://www.theguardian.com/technology/2017/sep/19/facebooks-war-on-free-will) [accessed 8 November 2024]
-- Guerra, J. (2023), ‘Towards a feminist framework for AI development: from principles to practice’, _Derechos Digitales_, [](https://www.derechosdigitales.org/wp-content/uploads/Fair_Doc_Eng.pdf) [accessed 8 May 2026]
+- Guerra, Juliana (2023), ‘Towards a feminist framework for AI development: from principles to practice’, _Derechos Digitales_, [](https://www.derechosdigitales.org/wp-content/uploads/Fair_Doc_Eng.pdf) [accessed 8 May 2026]
 - Hayden, Hugh (2026), ‘Niantic Spatial & The Large Geospatial Model’, _Niantic Spatial, Inc._, 13 January, [](https://www.nianticspatial.com/blog/world-models-2026) [accessed 8 May 2026]
 - Ibarra, Imanol Arrieta, and others (2018), ‘Should we treat data as labor? Let’s open up the discussion’, _Brookings_, [](https://www.brookings.edu/articles/should-we-treat-data-as-labor-lets-open-up-the-discussion/) [accessed 8 May 2026]
-- Kasparian, D. (2022), ‘Argentina, Meet CoopCycle!’, _Platform Cooperativism Consortium_, [](https://platform.coop/blog/argentina-meet-coopcycle/) [accessed 8 May 2026]
+- Kasparian, Denise (2022), ‘Argentina, Meet CoopCycle!’, _Platform Cooperativism Consortium_, [](https://platform.coop/blog/argentina-meet-coopcycle/) [accessed 8 May 2026]
 - Lewis, Paul, and Paul Hilder (2018), ‘Leaked: Cambridge Analytica’s blueprint for Trump victory’, _The Guardian_, 23 March, [](https://www.theguardian.com/uk-news/2018/mar/23/leaked-cambridge-analyticas-blueprint-for-trump-victory) [accessed 8 November 2024]
-- Marias, G., and A. Minotakis (2024), ‘Afterword: Platform Capitalism’, in _Platform Capitalism_ (Greek edition), ed. by N. Srnicek (Athens: Topos), 167–74
+- Marias, Georgios M., and Alexandros Minotakis (2024), ‘Afterword: Platform Capitalism’, in Nick Srnicek, _Platform Capitalism_, Greek edn, trans. by Georgios M. Marias and Alexandros Minotakis (Athens: Topos), 167–74
 - More, Thomas (1966), _Utopia_ (Leeds: Scolar Press)
-- Novianto, A. (2025), ‘Digital Lords or Capitalist Titans? Critiquing the Techno-Feudalism Narrative’, _Developing Economics_, 5 May, [](https://developingeconomics.org/2025/05/05/digital-lords-or-capitalist-titans-critiquing-the-techno-feudalism-narrative/) [accessed 4 April 2026]
-- Pal, M., and N. Harris (2024), ‘Capital is Dead. Long Live Capital! A Political Marxist Analysis of Digital Capitalism and Infrastructure’, _TripleC_ 22.1, 232–47
-- Paola, S., and others (2017), _Latin America in Glimpse: Gender, Feminism and the Internet in Latin America_ (APC / Internet Governance Forum), [](https://www.apc.org/sites/default/files/GlImpse2017_eng.pdf) [accessed 8 May 2026]
-- Plotkin, H. (2017), ‘The Platform Cooperatives Movement Helps Light up the Commons’, _Creative Commons_, 24 January, [](https://creativecommons.org/2017/01/24/platform-cooperatives-movement-helps-light-commons/) [accessed 8 May 2026]
+- Novianto, Arif (2025), ‘Digital Lords or Capitalist Titans? Critiquing the Techno-Feudalism Narrative’, _Developing Economics_, 5 May, [](https://developingeconomics.org/2025/05/05/digital-lords-or-capitalist-titans-critiquing-the-techno-feudalism-narrative/) [accessed 4 April 2026]
+- Pal, Maïa, and Neal Harris (2024), ‘Capital is Dead. Long Live Capital! A Political Marxist Analysis of Digital Capitalism and Infrastructure’, _TripleC_ 22.1, 232–47
+- Paola, Steffania, and others (2017), _Latin America in Glimpse: Gender, Feminism and the Internet in Latin America_ (APC / Internet Governance Forum), [](https://www.apc.org/sites/default/files/GlImpse2017_eng.pdf) [accessed 8 May 2026]
+- Plotkin, Hal (2017), ‘The Platform Cooperatives Movement Helps Light up the Commons’, _Creative Commons_, 24 January, [](https://creativecommons.org/2017/01/24/platform-cooperatives-movement-helps-light-commons/) [accessed 8 May 2026]
 - Rouvroy, Antoinette (2020), ‘Algorithmic Governmentality and the Death of Politics’, _Green European Journal_, [](https://www.greeneuropeanjournal.eu/algorithmic-governmentality-and-the-death-of-politics/) [accessed 8 May 2026]
 - Rouvroy, Antoinette, and Bernard Stiegler (2016), ‘The Digital Regime of Truth: From the Algorithmic Governmentality to a New Rule of Law’, trans. by Anaïs Nony and Benoît Dillet, _La Deleuziana_ 3, 6–29, [](https://ladeleuziana.org/wp-content/uploads/2016/11/Rouvroy-Stiegler_eng.pdf)
 - Saura García, Carlos (2024), ‘Datafeudalism: The Domination of Modern Societies by Big Tech Companies’, _Philosophy & Technology_ 37.3, 90
 - Schneider, Jaron (2026), ‘Pokémon GO Players Helped Build a 30 Billion AR Image Map of the World’, _PetaPixel_, 16 March, [](https://petapixel.com/2026/03/16/pokemon-go-players-unknowingly-helped-build-a-30-billion-ar-image-map-of-the-world/) [accessed 8 May 2026]
 - Scholz, Trebor (2016), _Platform Cooperativism: Challenging the Corporate Sharing Economy_ (New York: Rosa Luxemburg Stiftung), [](https://rosalux.nyc/wp-content/uploads/2020/11/RLS-NYC_platformcoop.pdf) [accessed 4 April 2026]
 - Scholz, Trebor (2017), _Uberworked and Underpaid: How Workers Are Disrupting the Digital Economy_ (Cambridge: Polity Press)
-- Sollfrank, C. (2018), _Interview with Femke Snelting and spideralex_ (Basel: House for Electronic Arts (HeK)), [](https://creatingcommons.zhdk.ch/wp-content/uploads/2020/06/Transcript-Femkespider.pdf) [accessed 8 May 2026]
+- Sollfrank, Cornelia (2018), _Interview with Femke Snelting and spideralex_ (Basel: House for Electronic Arts (HeK)), [](https://creatingcommons.zhdk.ch/wp-content/uploads/2020/06/Transcript-Femkespider.pdf) [accessed 8 May 2026]
 - Spideralex (2025), ‘History of Anarchaserver and Feminist Servers’, _Anarchaserver_, [](https://alexandria.anarchaserver.org/) [accessed 8 May 2026]
 - Srnicek, Nick (2017), _Platform Capitalism_ (Cambridge: Polity Press), [](https://ebookcentral.proquest.com/lib/goldsmiths/detail.action?docID=4773843) [accessed 7 May 2026]
 - Taplin, Jonathan (2026), ‘The Rise of the Digital Oligarchy’, _Rolling Stone Canada_, 30 March, [](https://ca.rollingstone.com/rise-digital-oligarchy-ai-era/) [accessed 8 May 2026]
@@ -115,7 +115,7 @@ The crisis of platform capitalism is fundamentally a crisis of ownership. It is 
 - Toupin, Sophie, and Alexandra Haché (2015), ‘Feminist autonomous infrastructures’, _Global Information Society Watch_, [](https://giswatch.org/en/internet-rights/feminist-autonomous-infrastructures) [accessed 8 May 2026]
 - Varoufakis, Yanis (2023), _Technofeudalism: What Killed Capitalism_ (London: Random House)
 - Weyl, E. Glen, and Eric A. Posner (2018), _Radical Markets: Uprooting Capitalism and Democracy for a Just Society_ (Princeton: Princeton University Press)
-- Woodcock, J. (2021), ‘The Limits of Algorithmic Management’, _South Atlantic Quarterly_ 120.4, 703–13
+- Woodcock, Jamie (2021), ‘The Limits of Algorithmic Management’, _South Atlantic Quarterly_ 120.4, 703–13
 - Zuboff, Shoshana (2015), ‘Big Other: Surveillance Capitalism and the Prospects of an Information Civilization’, _Journal of Information Technology_ 30.1, 75–89
 
 </div> <!-- closes .endnote-container -->
