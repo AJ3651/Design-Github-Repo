@@ -23,7 +23,7 @@ title: Colophon
 <br>Fran Hayes, Haiyi Xiao, Hanbo Zhan, Jemila Abdulai, Jiang He Zhang (Hez), Jung Namkoong, Yiho Li, Yiming, Yuxin Zhang, Zhenzhen Xie, Zihe Zheng
 
 **Edited by**
-<br>Fran Hayes, Michaella Miller, Mikhail, Qiang Hei, Savannah Perry, Sohyun Jun, Yiming, Yiran Jiao, Zhenzhen Xie, Zhuzhu Xie
+<br>Michaella Miller, Mikhail, Qiang Hei, Savannah Perry, Sohyun Jun, Yiming, Yiran Jiao, Zhenzhen Xie, Zhuzhu Xie
 
 **Contributors**
 <br>Goldsmiths MA & MFA Computational Arts Students, 2025-2026
